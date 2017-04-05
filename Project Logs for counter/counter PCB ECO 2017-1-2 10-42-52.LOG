@@ -1,0 +1,19 @@
+Change Component DesignItemId : Designator=Q6 Old DesignItemId=2N3904 New DesignItemId=QNPN
+Change Component DesignItemId : Designator=Q7 Old DesignItemId=2N3904 New DesignItemId=QNPN
+Change Component Footprint: Designator=Q6 Old Footprint=TO-92 New Footprint=SOT-23B
+Change Component Footprint: Designator=Q7 Old Footprint=TO-92 New Footprint=SOT-23B
+Change Component Comment : Designator=Q6 Old Comment=8050 New Comment=QNPN
+Change Component Comment : Designator=Q7 Old Comment=8050 New Comment=QNPN
+Added Pin To Net: NetName=Net*1_2 Pin=Q6-1
+Added Pin To Net: NetName=GND Pin=Q6-3
+Added Pin To Net: NetName=Net*3_2 Pin=Q7-1
+Added Pin To Net: NetName=GND Pin=Q7-3
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_2 Pin=R20-1
+Added Pin To Net: NetName=NetQ6_2 Pin=R24-2
+Added Net: Name=NetQ6_2
+Added Pin To Net: NetName=NetQ7_2 Pin=Q7-2
+Added Pin To Net: NetName=NetQ7_2 Pin=R22-1
+Added Pin To Net: NetName=NetQ7_2 Pin=R25-2
+Added Net: Name=NetQ7_2
+Added Room: Name=Sheet1

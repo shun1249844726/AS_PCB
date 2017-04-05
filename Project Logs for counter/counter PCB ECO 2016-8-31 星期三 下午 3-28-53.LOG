@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DS_RST Pin=U4-24
+Removed Pin From Net: NetName=DS_SCLK Pin=U4-26
+Added Pin To Net: NetName=DS_SCLK Pin=U4-24
+Added Pin To Net: NetName=DS_RST Pin=U4-26
+Added Room: Name=Sheet1

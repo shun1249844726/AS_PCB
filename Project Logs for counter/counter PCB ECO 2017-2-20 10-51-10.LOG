@@ -1,0 +1,13 @@
+Added Component: Designator=DC_IN1(DC-21MM)
+Added Pin To Net: NetName=VCC2LOW Pin=DC_IN1-1
+Added Pin To Net: NetName=GND12V Pin=DC_IN1-2
+Added Pin To Net: NetName=GND12V Pin=DC_IN1-3
+Added Member To Class: ClassName=Sheet1 Member=Component D3 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component D5 GREEN
+Added Member To Class: ClassName=Sheet1 Member=Component DC_IN1 POWER
+Added Member To Class: ClassName=Sheet1 Member=Component P2 caution light
+Added Member To Class: ClassName=Sheet1 Member=Component R5 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component R23 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component R24 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component R25 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component U6 PC817

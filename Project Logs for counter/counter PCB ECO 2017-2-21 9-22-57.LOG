@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LED1 Pin=U4-11
+Added Component: Designator=S?(AN88)
+Added Pin To Net: NetName=LED1 Pin=U4-23
+Added Member To Class: ClassName=Sheet1 Member=Component S? Ë«µ¶Ë«±ú¿ª¹Ø
+Added Room: Name=Sheet1

@@ -1,0 +1,8 @@
+Added Component: Designator=S2(KEY—立式)
+Added Component: Designator=S3(KEY—立式)
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=KEY1 Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=KEY2 Pin=S3-2
+Added Member To Class: ClassName=Sheet1 Member=Component S2 SW-PB
+Added Member To Class: ClassName=Sheet1 Member=Component S3 SW-PB

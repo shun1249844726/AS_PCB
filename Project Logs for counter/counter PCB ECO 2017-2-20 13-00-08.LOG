@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=Net*2_1 Pin=P6-1
+Removed Pin From Net: NetName=Net*2_3 Pin=P6-2
+Change Component Designator: OldDesignator=P7 NewDesignator=P6
+Change Component Designator: OldDesignator=P8 NewDesignator=P7
+Added Component: Designator=P2(5.08_2P)
+Added Component: Designator=P5(5.08_5P)
+Added Pin To Net: NetName=Net*2_1 Pin=P2-1
+Added Pin To Net: NetName=Net*2_3 Pin=P2-2
+Added Pin To Net: NetName=VCC2LOW Pin=P5-1
+Added Pin To Net: NetName=RES_COUNT Pin=P5-2
+Added Pin To Net: NetName=COUNT_NUM Pin=P5-3
+Added Pin To Net: NetName=CYCLE Pin=P5-4
+Added Pin To Net: NetName=GND Pin=P5-5
+Change Net Name : Old Net Name=NetP8_1 New Net Name=NetP7_1
+Added Member To Class: ClassName=Sheet1 Member=Component *3 ¼ÌµçÆ÷
+Added Member To Class: ClassName=Sheet1 Member=Component D8 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component D10 GREEN
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component P5 Header 5
+Added Member To Class: ClassName=Sheet1 Member=Component Q7 8050
+Added Member To Class: ClassName=Sheet1 Member=Component R18 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component R22 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component R24 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component R25 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component R26 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component U8 PC817

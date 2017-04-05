@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=VCC12V Pin=*2-3
+Removed Pin From Net: NetName=VCC12V Pin=*2-5
+Removed Pin From Net: NetName=VCC12V Pin=D4-K
+Removed Pin From Net: NetName=VCC12V Pin=R11-1
+Removed Pin From Net: NetName=Net*2_2 Pin=R12-2
+Removed Pin From Net: NetName=CTR Pin=R13-1
+Removed Pin From Net: NetName=NetQ5_B Pin=R14-2
+Removed Pin From Net: NetName=RXD Pin=U5-3
+Removed Pin From Net: NetName=TXD Pin=U5-4
+Removed Pin From Net: NetName=VCC12V Pin=U6-4
+Change Component Designator: OldDesignator=D5 NewDesignator=D7
+Change Component Designator: OldDesignator=R15 NewDesignator=R18
+Added Component: Designator=D5(二极管贴片)
+Added Component: Designator=D6(二极管贴片)
+Added Component: Designator=R15(0805R)
+Added Component: Designator=R16(0805R)
+Added Component: Designator=R17(0805R)
+Added Pin To Net: NetName=VCC2LOW Pin=*2-3
+Added Pin To Net: NetName=VCC2LOW Pin=*2-5
+Added Pin To Net: NetName=VCC_3.3V Pin=D4-K
+Added Pin To Net: NetName=VCC2LOW Pin=D5-K
+Added Pin To Net: NetName=VCC2LOW Pin=R11-1
+Added Pin To Net: NetName=VCC_5V Pin=R12-1
+Added Pin To Net: NetName=RXD Pin=R12-2
+Added Pin To Net: NetName=TXD Pin=R13-1
+Added Pin To Net: NetName=RXD Pin=R14-1
+Added Pin To Net: NetName=Net*2_2 Pin=R15-2
+Added Pin To Net: NetName=CTR Pin=R16-1
+Added Pin To Net: NetName=NetQ5_B Pin=R17-2
+Added Pin To Net: NetName=VCC2LOW Pin=U6-4
+Change Net Name : Old Net Name=NetD5_A New Net Name=NetD7_A
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=R15-1
+Added Net: Name=NetD5_A
+Added Pin To Net: NetName=NetD6_A Pin=D6-A
+Added Pin To Net: NetName=NetD6_A Pin=R14-2
+Added Net: Name=NetD6_A
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=U6-2
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=U6-3
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=UART_RXD Pin=D4-A
+Added Pin To Net: NetName=UART_RXD Pin=R13-2
+Added Pin To Net: NetName=UART_RXD Pin=U5-4
+Added Net: Name=UART_RXD
+Added Pin To Net: NetName=UART_TXD Pin=D6-K
+Added Pin To Net: NetName=UART_TXD Pin=U5-3
+Added Net: Name=UART_TXD
+Added Member To Class: ClassName=Sheet1 Member=Component D6 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component D7 GREEN
+Added Member To Class: ClassName=Sheet1 Member=Component R16 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component R17 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component R18 Res Semi

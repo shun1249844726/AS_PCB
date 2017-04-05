@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=Net*1_2 Pin=Q5-1
+Removed Pin From Net: NetName=GND Pin=Q5-3
+Removed Pin From Net: NetName=Net*2_2 Pin=Q6-1
+Removed Pin From Net: NetName=GND Pin=Q6-3
+Removed Member From Class: ClassName=Sheet1 Member=Q5
+Removed Member From Class: ClassName=Sheet1 Member=Q6
+Added Component: Designator=Q8(SOT-23-EBC)
+Added Component: Designator=Q9(SOT-23-EBC)
+Added Pin To Net: NetName=Net*1_2 Pin=Q8-C
+Added Pin To Net: NetName=GND Pin=Q8-E
+Added Pin To Net: NetName=Net*2_2 Pin=Q9-C
+Added Pin To Net: NetName=GND Pin=Q9-E
+Added Pin To Net: NetName=NetQ8_B Pin=Q8-B
+Added Pin To Net: NetName=NetQ8_B Pin=R11-1
+Added Pin To Net: NetName=NetQ8_B Pin=R16-2
+Added Net: Name=NetQ8_B
+Added Pin To Net: NetName=NetQ9_B Pin=Q9-B
+Added Pin To Net: NetName=NetQ9_B Pin=R13-1
+Added Pin To Net: NetName=NetQ9_B Pin=R17-2
+Added Net: Name=NetQ9_B
+Added Member To Class: ClassName=Sheet1 Member=Component D3 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component D4 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component Q8 8050
+Added Member To Class: ClassName=Sheet1 Member=Component Q9 8050
+Added Member To Class: ClassName=Sheet1 Member=Component U6 PC817

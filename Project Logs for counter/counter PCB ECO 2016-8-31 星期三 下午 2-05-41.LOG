@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=VCC_5V Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=COUNT_NUM Pin=C12-2
+Removed Pin From Net: NetName=CYCLE Pin=C13-2
+Change Component Footprint: Designator=C3 Old Footprint=0805C New Footprint=ÂÁµç½âµçÈÝ6x7
+Change Component Comment : Designator=C3 Old Comment=Cap1 New Comment=220uF
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Added Component: Designator=C4(0805C)
+Added Component: Designator=C14(0805C)
+Added Pin To Net: NetName=VCC2LOW Pin=C3-1
+Added Pin To Net: NetName=VCC_5V Pin=C4-1
+Added Pin To Net: NetName=POWER_GND Pin=C4-2
+Added Pin To Net: NetName=COUNT_NUM Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=CYCLE Pin=C14-2
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC6_2
+Added Member To Class: ClassName=Sheet1 Member=Component C14 0.1uF
+Added Room: Name=Sheet1

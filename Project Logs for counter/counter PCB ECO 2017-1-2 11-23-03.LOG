@@ -1,0 +1,7 @@
+Change Component DesignItemId : Designator=D7 Old DesignItemId=Diode New DesignItemId=D
+Change Component DesignItemId : Designator=D8 Old DesignItemId=Diode New DesignItemId=D
+Change Component Footprint: Designator=D7 Old Footprint=SMC New Footprint=DIODE_SOP
+Change Component Footprint: Designator=D8 Old Footprint=SMC New Footprint=DIODE_SOP
+Change Component Comment : Designator=D7 Old Comment=Diode New Comment=1N4148
+Change Component Comment : Designator=D8 Old Comment=Diode New Comment=1N4148
+Added Room: Name=Sheet1

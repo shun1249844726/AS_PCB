@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=TXD Pin=S4-2
+Removed Pin From Net: NetName=RXD Pin=S4-5
+Removed Member From Class: ClassName=Sheet1 Member=S4
+Change Component Footprint: Designator=D2 Old Footprint=led-5mm New Footprint=0805AK
+Added Pin To Net: NetName=RXD Pin=R20-2
+Added Pin To Net: NetName=TXD Pin=R21-1
+Added Pin To Net: NetName=RXD Pin=R22-1
+Added Room: Name=Sheet1

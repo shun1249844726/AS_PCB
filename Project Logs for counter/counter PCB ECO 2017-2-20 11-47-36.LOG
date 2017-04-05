@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND12V Pin=J1-1
+Removed Pin From Net: NetName=VCC2LOW Pin=J1-2
+Removed Pin From Net: NetName=GND12V Pin=J1-3
+Removed Member From Class: ClassName=Sheet1 Member=J1
+Added Pin To Net: NetName=VCC2LOW Pin=J?-1A
+Added Pin To Net: NetName=VCC2LOW Pin=J?-1B
+Added Pin To Net: NetName=VCC2LOW Pin=J?-1
+Added Pin To Net: NetName=GND12V Pin=J?-2A
+Added Pin To Net: NetName=GND12V Pin=J?-2B
+Added Pin To Net: NetName=GND12V Pin=J?-2
+Added Pin To Net: NetName=GND12V Pin=J?-3A
+Added Pin To Net: NetName=GND12V Pin=J?-3B
+Added Pin To Net: NetName=GND12V Pin=J?-3

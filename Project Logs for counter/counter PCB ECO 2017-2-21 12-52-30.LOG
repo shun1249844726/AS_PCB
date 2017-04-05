@@ -1,0 +1,12 @@
+Added Component: Designator=S4(AN88)
+Added Pin To Net: NetName=TXD Pin=S4-2
+Added Pin To Net: NetName=RXD Pin=S4-5
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=S4-3
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=S4-4
+Added Net: Name=NetR22_1
+Added Member To Class: ClassName=Sheet1 Member=Component P5 下载接口
+Added Member To Class: ClassName=Sheet1 Member=Component R7 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component S4 双刀双柄开关

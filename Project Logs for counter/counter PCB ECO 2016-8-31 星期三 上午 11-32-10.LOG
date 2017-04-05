@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=POWER_GND Pin=D1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=D1-2
+Change Component Footprint: Designator=D1 Old Footprint=贴片二极管 New Footprint=二极管贴片
+Added Pin To Net: NetName=POWER_GND Pin=D1-A
+Added Pin To Net: NetName=NetC1_1 Pin=D1-K

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=VCC2LOW Pin=DC_IN1-1
+Removed Pin From Net: NetName=GND12V Pin=DC_IN1-2
+Removed Pin From Net: NetName=GND12V Pin=DC_IN1-3
+Removed Member From Class: ClassName=Sheet1 Member=DC_IN1
+Removed Member From Class: ClassName=Sheet1 Member=DC_IN1
+Added Component: Designator=J?(DC-21MM)
+Added Pin To Net: NetName=VCC2LOW Pin=J?-1
+Added Pin To Net: NetName=GND12V Pin=J?-2
+Added Pin To Net: NetName=GND12V Pin=J?-3
+Added Member To Class: ClassName=Sheet1 Member=Component D3 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component D5 GREEN
+Added Member To Class: ClassName=Sheet1 Member=Component J? DC2.5
+Added Member To Class: ClassName=Sheet1 Member=Component P2 caution light
+Added Member To Class: ClassName=Sheet1 Member=Component R5 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component R23 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component R24 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component R25 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component U6 PC817
+Added Room: Name=Sheet1

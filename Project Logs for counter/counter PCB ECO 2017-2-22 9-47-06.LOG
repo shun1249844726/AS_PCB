@@ -1,0 +1,5 @@
+Added Component: Designator=D2(0805AK)
+Added Pin To Net: NetName=VCC_3.3V Pin=D2-A
+Added Pin To Net: NetName=NetD2_K Pin=D2-K
+Added Member To Class: ClassName=Sheet1 Member=Component D2 LED0
+Added Room: Name=Sheet1

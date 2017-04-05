@@ -1,0 +1,27 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~counter.PrjPCB|ReportField=ProjectFullPath~I:\C_project\zhongtian\第四版加继电器\counter.PrjPCB|ReportField=Title~Bill of Materials For Project [counter.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~72|ReportField=ReportTime~13:28:38|ReportField=ReportDate~2017/2/23|ReportField=ReportDateTime~2017/2/23 13:28:38|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/2/23|ReportField=CurrentTime~13:28:31|ReportField=Date~|ReportField=DocumentFullPathAndName~I:\C_project\zhongtian\第四版加继电器\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/2/22|ReportField=Organization~|ReportField=ProjectName~counter.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~counter.PrjPCB|ReportField=DataSourceFullPath~I:\C_project\zhongtian\第四版加继电器\counter.PrjPCB
+BATTERY||BAT1|BATTERY|BATTERY|1
+0.1uF|Capacitor|C1, C6, C7, C8, C9, C10, C11|0805C|Cap|7
+220uF|Polarized Capacitor (Surface Mount)|C2, C3|铝电解电容6x7|Cap Pol3|2
+Cap Tantalum|有极性贴片电容|C4|CAP 3216X06M|Cap Tantalum|1
+Cap1|贴片电容|C5|0805C|Cap1|1
+LED0|Typical INFRARED GaAs LED|D2|0805AK|LED0|1
+1N4148|High Conductance Fast Diode|D3, D4, D7, D8, D9|二极管贴片|Diode 1N4148|5
+GREEN|Typical INFRARED GaAs LED|D5, D6, D10|0805AK|LED0|3
+U?||DS1|SOP-8|DS1302|1
+DC2.5|Low Voltage Power Supply Connector|J1|POW|DC2.5|1
+Header 2|Header, 2-Pin|P2|5.08_2P|Header 2|1
+caution light|Header, 3-Pin|P3|5.08_3P|Header 3|1
+Header 5|Header, 5-Pin|P4|5.08_5P|Header 5|1
+下载接口|Header, 4-Pin|P5|HDR1X4|Header 4|1
+8050|NPN General Purpose Amplifier|Q1, Q2, Q3, Q4, Q5, Q6, Q7|SOT-23-EBC|2N3904|7
+Res Semi|Semiconductor Resistor|R1, R4, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27|0805R|Res Semi|23
+Res1|贴片电阻|R5|0805R|Res1|1
+SW-PB|Switch|S2, S3|KEY—立式|SW-PB|2
+AMS1117-3.3||U1|AMS1117|AMS1117-3.3|1
+ZMR1205S||U2|ZMR2405S|ZMR2405S|1
+USR-WIFI232-A||U3|USR-WIFI232-A/B/D|USR-WIFI232-A|1
+STC15F2K60S2_SOP28_SKDIP28||U4|SOP28-STC|STC15F2K60S2_SOP28_SKDIP28|1
+四位共阳数码管||U5|0.4英寸 4位共阳数码管|四位共阳数码管|1
+HK4100F-DCXV-SHG||U6, U7, U10|HK4100F-DC5V-SHG|HK4100F-DC5V-SHG|3
+PC817|4-Pin Phototransistor Optocoupler|U8, U9, U11|PC817|Optoisolator1|3
+XTAL|晶体振荡器|Y1|NX5032CA|XTAL|1

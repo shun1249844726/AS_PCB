@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=VCC2LOW Pin=U6-1
+Removed Pin From Net: NetName=VCC2LOW Pin=U6-1
+Removed Pin From Net: NetName=LED2A Pin=U6-3
+Removed Pin From Net: NetName=VCC2LOW Pin=U10-1
+Removed Pin From Net: NetName=VCC2LOW Pin=U10-1
+Removed Pin From Net: NetName=LED1A Pin=U10-3
+Added Pin To Net: NetName=VCC2LOW Pin=P3-2
+Added Pin To Net: NetName=LED2A Pin=U6-1
+Added Pin To Net: NetName=LED2A Pin=U6-1
+Added Pin To Net: NetName=GND12V Pin=U6-3
+Added Pin To Net: NetName=LED1A Pin=U10-1
+Added Pin To Net: NetName=LED1A Pin=U10-1
+Added Pin To Net: NetName=GND12V Pin=U10-3

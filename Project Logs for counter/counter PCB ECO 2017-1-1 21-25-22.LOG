@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC_3.3V Pin=U1-4
+Change Component Designator: OldDesignator=DS1 NewDesignator=DS1302
+Change Net Name : Old Net Name=NetDS1_2 New Net Name=NetDS1302_2
+Change Net Name : Old Net Name=NetDS1_3 New Net Name=NetDS1302_3
+Added Member To Class: ClassName=Sheet1 Member=Component R16 Res Semi
+Added Room: Name=Sheet1

@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=D1-K
+Removed Pin From Net: NetName=GND Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=Q7-E
+Removed Pin From Net: NetName=GND Pin=Q8-E
+Removed Pin From Net: NetName=GND Pin=Q9-E
+Removed Pin From Net: NetName=GND Pin=R16-1
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=GND Pin=R25-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Change Component Designator: OldDesignator=Q8 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q9 NewDesignator=Q6
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R26
+Added Component: Designator=D5(0805AK)
+Added Component: Designator=D6(0805AK)
+Added Component: Designator=R23(0805R)
+Added Pin To Net: NetName=Net*1_2 Pin=D5-K
+Added Pin To Net: NetName=Net*2_2 Pin=D6-K
+Added Pin To Net: NetName=GND Pin=R23-1
+Change Net Name : Old Net Name=NetQ8_B New Net Name=NetQ5_B
+Change Net Name : Old Net Name=NetQ9_B New Net Name=NetQ6_B
+Change Net Name : Old Net Name=NetR23_2 New Net Name=NetR24_2
+Change Net Name : Old Net Name=NetR24_1 New Net Name=NetR25_1
+Added Pin To Net: NetName=GND12V Pin=C2-2
+Added Pin To Net: NetName=GND12V Pin=C5-2
+Added Pin To Net: NetName=GND12V Pin=D1-K
+Added Pin To Net: NetName=GND12V Pin=P4-1
+Added Pin To Net: NetName=GND12V Pin=Q5-E
+Added Pin To Net: NetName=GND12V Pin=Q6-E
+Added Pin To Net: NetName=GND12V Pin=Q7-E
+Added Pin To Net: NetName=GND12V Pin=R16-1
+Added Pin To Net: NetName=GND12V Pin=R17-1
+Added Pin To Net: NetName=GND12V Pin=R23-2
+Added Pin To Net: NetName=GND12V Pin=R26-1
+Added Pin To Net: NetName=GND12V Pin=U2-2
+Added Net: Name=GND12V
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=R5-1
+Added Net: Name=NetD5_A
+Added Pin To Net: NetName=NetD6_A Pin=D6-A
+Added Pin To Net: NetName=NetD6_A Pin=R6-1
+Added Net: Name=NetD6_A
+Added Member To Class: ClassName=Sheet1 Member=Component D3 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component D4 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component D5 GREEN
+Added Member To Class: ClassName=Sheet1 Member=Component D6 GREEN
+Added Member To Class: ClassName=Sheet1 Member=Component P2 caution light
+Added Member To Class: ClassName=Sheet1 Member=Component R26 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component U6 PC817

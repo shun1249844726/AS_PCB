@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J1 Old Footprint=DC-21MM New Footprint=POW
+Added Member To Class: ClassName=Sheet1 Member=Component U8 PC817
+Added Room: Name=Sheet1

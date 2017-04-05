@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=TXD Pin=S4-1
+Removed Pin From Net: NetName=RXD Pin=S4-5
+Removed Member From Class: ClassName=Sheet1 Member=S4
+Added Member To Class: ClassName=Sheet1 Member=Component P5 обть╫с©з
+Added Member To Class: ClassName=Sheet1 Member=Component R7 Res Semi

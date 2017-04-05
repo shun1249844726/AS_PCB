@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=POWER_GND Pin=R4-2
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Added Member To Class: ClassName=Sheet1 Member=Component C10 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component U4 四位共阳数码管
+Added Room: Name=Sheet1
